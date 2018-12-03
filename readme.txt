@@ -1,9 +1,11 @@
+# NOTE: This is no longer maintained.
+
+
 === Xb Ajax Widget Demo ===
-Contributors: explodybits
+Contributors: mhail
 Tags: ajax, widget
 Requires at least: 3.2.1
 Tested up to: 3.2.1
-Stable tag: trunk
 
 Demo of using the Xb_Widget_Ajax class to create Ajax enabled widgets.
 
@@ -11,7 +13,7 @@ Demo of using the Xb_Widget_Ajax class to create Ajax enabled widgets.
 
 Demo of using the Xb_Widget_Ajax class to create Ajax enabled widgets.
 See full article here: 
-[explodybits (xb)](http://www.explodybits.com/2011/11/wordpress-ajax-widgets/ "explodybits (xb)")
+[Wordpress Ajax Widgets](wordpress-ajax-widgets.md)
 
 == Installation ==
 
